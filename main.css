@@ -1,0 +1,352 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif ;
+}
+body {
+       background: rgba(14, 28, 37, 1);
+  margin: 0;
+  display: flex;
+  justify-content: center; /* gorizontal ortaga */
+  align-items: flex-start;     /* vertikal ortaga */
+  flex-direction: column;
+  
+            
+}
+
+.header-nav{
+    background: rgba(0, 0, 0, 1);
+    width: 1920px;
+    height: 76px;
+}
+.container h1{
+    color: rgba(255, 255, 255, 1);
+font-size: 40px;
+font-weight: 600;
+text-align: start;
+position: relative;
+top: 15px;
+left: 366px;
+
+}
+.container ul{
+    display: flex;
+    gap: 30px;
+    position: relative;
+    left: 1010px;
+    color: rgba(255, 255, 255, 1);
+font-size: 25px;
+font-weight: 400px;
+list-style: none;
+bottom: 24px;
+}
+.container a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1);
+}
+.header-content{
+    background-image: url(Rectangle\ 2.png);
+    width: 1920px;
+    height: 850px;
+}
+.header-content-title{
+    text-align: center;
+    position: relative;
+    top: 305px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 40px;
+    font-weight: 600;
+
+}
+.header-content-call{
+    background-color: white;
+    padding: 10px 15px;
+    position: relative;
+    left: 900px;
+    top: 496px;
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+.header-content-call:hover{
+    text-decoration: underline;
+    border-radius: 10px;
+}
+.main-top{
+      
+    background: rgba(14, 28, 37, 1);
+    padding-top: 30px;
+    padding-bottom: 112px;
+    padding-left: 393px;
+}
+.main-top-title1{
+  color: rgba(255, 255, 255, 1);
+font-family: Arial;
+font-size: 40px;
+font-weight: 600;
+text-align: center;
+position: relative;
+right: 150px;
+padding-bottom: 49px;
+
+
+}
+.main-top-left{
+    max-width: 500px;
+    width: 100%;
+}
+.main-top-right {
+  width: 466px;
+  margin: 0 auto; /* markazga olish uchun */
+  color: white;
+     background: rgba(14, 28, 37, 1);/* rasmga o‘xshash fon rangi */
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+.main-top-right h3 {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.main-top-right p {
+  margin: 0;
+}
+
+.main-top-box{
+    display: flex;
+     justify-content: space-between;
+    align-items: center;
+    margin-top:50px ;
+    gap: 106px;
+}
+  @media (max-width: 300px) {
+    body {
+        padding: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+  }
+
+ 
+   
+
+.main-top-title{
+   color: rgba(255, 255, 255, 1);
+font-family: Arial;
+font-size: 40px;
+font-weight: 600;
+text-align: center;
+position: relative;
+left: px;
+padding-bottom: 49px;
+top: 43px;
+}
+.main-top-item{
+    border-radius: 10px;
+background: rgba(177, 43, 6, 1);
+width: 312px;
+height: 550px;
+
+}
+.container1{
+     background: rgba(92, 107, 129, 1);
+    width: 1920px;
+    height: 1931px; 
+  
+    
+}
+.flex{
+    gap: 126px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 62px;
+}
+.flex1{
+     gap: 126px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 92px;
+}
+.flex2{
+    gap: 126px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 122px;  
+}
+.main-top-item1{
+    border-radius: 10px;
+background: rgba(177, 43, 6, 1);
+width: 312px;
+height: 550px;
+
+}
+.main-top-item2{
+    border-radius: 10px;
+background: rgba(177, 43, 6, 1);
+width: 312px;
+height: 550px;
+
+}
+
+.main-top-item img{
+   position: relative;
+   left: 15px;
+   top: 15px;
+}
+.main-top-item h3{
+    color: rgba(255, 255, 255, 1);
+font-family: Arial;
+font-size: 20px;
+font-weight: 600;
+text-align: center;
+position: relative;
+top: 20px;
+}
+.main-top-item p{
+    color: rgba(255, 255, 255, 1);
+font-family: Arial;
+font-size: 14px;
+font-weight: 600;
+text-align: center;
+position: relative;
+top: 31px;
+
+}
+.main-top-item a{
+  background: rgba(255, 255, 255, 1);
+  width: 168px;
+height: 40px;
+font-family: Arial,;
+font-size: 30;
+color: rgba(0, 0, 0, 1);
+border-radius: 3px;
+padding: 5px 25px 5px 25px;
+position: relative;
+top: 75px;
+left: 90px;
+text-decoration: none;
+
+
+
+
+}
+.main-top-item1 img{
+   position: relative;
+   left: 15px;
+   top: 15px;
+}
+.main-top-item1 h3{
+    color: rgba(255, 255, 255, 1);
+font-family: Arial;
+font-size: 20px;
+font-weight: 600;
+text-align: center;
+position: relative;
+top: 20px;
+}
+.main-top-item1 p{
+    color: rgba(255, 255, 255, 1);
+font-family: Arial;
+font-size: 14px;
+font-weight: 600;
+text-align: center;
+position: relative;
+top: 31px;
+
+}
+.main-top-item1 a{
+  background: rgba(255, 255, 255, 1);
+  width: 168px;
+height: 40px;
+font-family: Arial,;
+font-size: 30;
+color: rgba(0, 0, 0, 1);
+border-radius: 3px;
+padding: 5px 25px 5px 25px;
+position: relative;
+top: 75px;
+left: 90px;
+text-decoration: none;
+
+
+
+
+}
+.main-top-item2 img{
+   position: relative;
+   left: 15px;
+   top: 15px;
+}
+.main-top-item2 h3{
+    color: rgba(255, 255, 255, 1);
+font-family: Arial;
+font-size: 20px;
+font-weight: 600;
+text-align: center;
+position: relative;
+top: 20px;
+}
+.main-top-item2 p{
+    color: rgba(255, 255, 255, 1);
+font-family: Arial;
+font-size: 14px;
+font-weight: 600;
+text-align: center;
+position: relative;
+top: 31px;
+
+}
+.main-top-item2 a{
+  background: rgba(255, 255, 255, 1);
+  width: 168px;
+height: 40px;
+font-family: Arial,;
+font-size: 30;
+color: rgba(0, 0, 0, 1);
+border-radius: 3px;
+padding: 5px 25px 5px 25px;
+position: relative;
+top: 75px;
+left: 90px;
+text-decoration: none;
+
+}
+.footer-top{
+color: rgba(255, 255, 255, 1);
+font-family: Arial;
+font-size: 40px;
+font-weight: 400;
+text-align: center;
+position: relative;
+top: 47px;
+
+
+}
+.container2{
+    background: rgba(0, 0, 0, 1);
+    width: 1920px;
+height: 243px;
+
+}
+.footer-logolar{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 76px;
+    gap: 200px;
+}
+
+
+
+
+ 
+      
