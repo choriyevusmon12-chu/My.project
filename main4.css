@@ -58,15 +58,17 @@ body {
   text-align: center;
 }
 .header-content {
-  background-image: url(image\ 2.png);
-  width: 1920px;
+  background-image: url(https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms/uploads/2017/08/p-1-Levis-created-a-bot-to-help-you-find-the-perfect-pair-of-jeans.jpg);
+  width: 1400px;
   height: 850px;
   background-repeat: no-repeat;
   margin: auto;
   position: relative;
+  position: relative;
+ 
 }
 .header-content-title {
-  color: rgba(255, 255, 255, 1);
+  color: rgb(0, 0, 0);
   font-family: Roboto;
   font-size: 50px;
   font-weight: 700;
@@ -74,16 +76,16 @@ body {
   text-align: left;
   position: relative;
   top: 167px;
-  left: 644px;
+  left: 550px;
   cursor: pointer;
 }
 .header-content p {
-  color: rgba(255, 255, 255, 1);
+  color: rgb(121, 121, 121);
   font-family: Roboto;
   font-size: 18px;
   font-weight: 700;
   position: relative;
-  left: 571px;
+  left: 490px;
   top: 175px;
 }
 .header-content a {
@@ -172,7 +174,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   position: relative;
-  left: 36px;
+  left: 66px;
   top: 30px;
 }
 .section-center p {
@@ -220,7 +222,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   position: relative;
-  left: 67px;
+  left: 70px;
   top: 30px;
 }
 .section-end p {
@@ -303,8 +305,8 @@ body {
 }
 .dumaloq3 img {
   position: relative;
-  top: 10px;
-  left: 4px;
+  top: 20px;
+  left: 8px;
 }
 .section-footer-end a {
   text-decoration: none;
@@ -412,6 +414,6 @@ body {
 }
 .logo {
   position: relative;
-   left: 200px;
+  left: 200px;
   top: 69px;
 }

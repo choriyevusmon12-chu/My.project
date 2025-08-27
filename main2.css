@@ -58,15 +58,17 @@ body {
   text-align: center;
 }
 .header-content {
-  background-image: url(image\ 2.png);
+  background-image: url(https://kurs.if.ua/wp-content/uploads/2024/03/futbolky-1200x630.png);
   width: 1920px;
   height: 850px;
   background-repeat: no-repeat;
   margin: auto;
   position: relative;
+  position: relative;
+  left: 100px;
 }
 .header-content-title {
-  color: rgba(255, 255, 255, 1);
+  color: rgb(0, 0, 0);
   font-family: Roboto;
   font-size: 50px;
   font-weight: 700;
@@ -74,16 +76,16 @@ body {
   text-align: left;
   position: relative;
   top: 167px;
-  left: 644px;
+  left: 550px;
   cursor: pointer;
 }
 .header-content p {
-  color: rgba(255, 255, 255, 1);
+  color: rgb(121, 121, 121);
   font-family: Roboto;
   font-size: 18px;
   font-weight: 700;
   position: relative;
-  left: 571px;
+  left: 490px;
   top: 175px;
 }
 .header-content a {
@@ -303,8 +305,8 @@ body {
 }
 .dumaloq3 img {
   position: relative;
-  top: 10px;
-  left: 4px;
+  top: 20px;
+  left: 8px;
 }
 .section-footer-end a {
   text-decoration: none;
@@ -412,6 +414,6 @@ body {
 }
 .logo {
   position: relative;
-   left: 200px;
+ left: 200px;
   top: 69px;
 }

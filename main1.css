@@ -58,8 +58,8 @@ body {
   text-align: center;
 }
 .header-content {
-  background-image: url(image\ 2.png);
-  width: 1920px;
+  background-image: url(ChatGPT\ Image\ Aug\ 27\,\ 2025\,\ 06_07_12\ PM.png);
+  width: 1400px;
   height: 850px;
   background-repeat: no-repeat;
   margin: auto;
@@ -150,7 +150,7 @@ body {
 .dumaloq {
   border: 2px solid rgba(212, 115, 0, 1);
   border-radius: 40px;
-  background: rgba(255, 255, 255, 1);
+  background: rgb(255, 255, 255);
   width: 80px;
   height: 80px;
   position: relative;
@@ -159,7 +159,7 @@ body {
 }
 .dumaloq img {
   position: relative;
-  top: 20px;
+  top: 25px;
   left: 8px;
 }
 .section-center a {
@@ -172,7 +172,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   position: relative;
-  left: 36px;
+  left: 66px;
   top: 30px;
 }
 .section-center p {
@@ -198,7 +198,7 @@ body {
 .dumaloq1 {
   border: 2px solid rgba(212, 115, 0, 1);
   border-radius: 40px;
-  background: rgba(255, 255, 255, 1);
+  background: rgb(0, 0, 0);
   width: 80px;
   height: 80px;
   position: relative;
@@ -220,7 +220,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   position: relative;
-  left: 67px;
+  left: 30px;
   top: 30px;
 }
 .section-end p {
@@ -246,7 +246,7 @@ body {
 .dumaloq2 {
   border: 2px solid rgba(212, 115, 0, 1);
   border-radius: 40px;
-  background: rgba(255, 255, 255, 1);
+  background: rgb(0, 0, 0);
   width: 80px;
   height: 80px;
   position: relative;
@@ -268,7 +268,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   position: relative;
-  left: 50px;
+  left: 35px;
   top: 30px;
 }
 .section-footer-start p {
@@ -294,7 +294,7 @@ body {
 .dumaloq3 {
   border: 2px solid rgba(212, 115, 0, 1);
   border-radius: 40px;
-  background: rgba(255, 255, 255, 1);
+  background: rgb(0, 0, 0);
   width: 80px;
   height: 80px;
   position: relative;
@@ -303,8 +303,8 @@ body {
 }
 .dumaloq3 img {
   position: relative;
-  top: 10px;
-  left: 4px;
+  top: 20px;
+  left: 8px;
 }
 .section-footer-end a {
   text-decoration: none;
@@ -316,7 +316,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   position: relative;
-  left: 42px;
+  left: 32px;
   top: 30px;
 }
 .section-footer-end p {
@@ -412,6 +412,6 @@ body {
 }
 .logo {
   position: relative;
-   left: 200px;
+  left: 200px;
   top: 69px;
 }

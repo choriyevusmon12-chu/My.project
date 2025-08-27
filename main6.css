@@ -58,15 +58,15 @@ body {
   text-align: center;
 }
 .header-content {
-  background-image: url(image\ 2.png);
-  width: 1920px;
+  background-image: url(Screenshot\ 2025-08-27\ 220123.png);
+  width: 1400px;
   height: 850px;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   margin: auto;
   position: relative;
 }
 .header-content-title {
-  color: rgba(255, 255, 255, 1);
+  color: rgb(16, 1, 1);
   font-family: Roboto;
   font-size: 50px;
   font-weight: 700;
@@ -78,7 +78,7 @@ body {
   cursor: pointer;
 }
 .header-content p {
-  color: rgba(255, 255, 255, 1);
+  color: rgb(40, 38, 38);
   font-family: Roboto;
   font-size: 18px;
   font-weight: 700;
@@ -220,7 +220,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   position: relative;
-  left: 67px;
+  left: 47px;
   top: 30px;
 }
 .section-end p {
@@ -268,7 +268,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   position: relative;
-  left: 50px;
+  left: 40px;
   top: 30px;
 }
 .section-footer-start p {
@@ -303,7 +303,7 @@ body {
 }
 .dumaloq3 img {
   position: relative;
-  top: 10px;
+  top: 20px;
   left: 4px;
 }
 .section-footer-end a {
@@ -316,7 +316,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   position: relative;
-  left: 42px;
+  left: 32px;
   top: 30px;
 }
 .section-footer-end p {
@@ -412,6 +412,6 @@ body {
 }
 .logo {
   position: relative;
-   left: 200px;
+  left: 200px;
   top: 69px;
 }

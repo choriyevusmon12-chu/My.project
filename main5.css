@@ -58,15 +58,15 @@ body {
   text-align: center;
 }
 .header-content {
-  background-image: url(image\ 2.png);
-  width: 1920px;
+  background-image: url(Screenshot\ 2025-08-27\ 213152.png);
+  width: 1400px;
   height: 850px;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   margin: auto;
   position: relative;
 }
 .header-content-title {
-  color: rgba(255, 255, 255, 1);
+  color: rgb(0, 0, 0);
   font-family: Roboto;
   font-size: 50px;
   font-weight: 700;
@@ -78,7 +78,7 @@ body {
   cursor: pointer;
 }
 .header-content p {
-  color: rgba(255, 255, 255, 1);
+  color: rgb(105, 104, 104);
   font-family: Roboto;
   font-size: 18px;
   font-weight: 700;
@@ -172,7 +172,7 @@ body {
   letter-spacing: 0%;
   text-align: center;
   position: relative;
-  left: 36px;
+  left: 66px;
   top: 30px;
 }
 .section-center p {
@@ -303,8 +303,8 @@ body {
 }
 .dumaloq3 img {
   position: relative;
-  top: 10px;
-  left: 4px;
+  top: 20px;
+  left: 7px;
 }
 .section-footer-end a {
   text-decoration: none;
@@ -374,8 +374,8 @@ body {
 .bolimlar {
   display: flex;
   position: relative;
-  left: 659px;
-  bottom: 120px;
+ left: 300px;
+  bottom: 70px;
   gap: 50px;
 }
 .bolim ul {
@@ -412,6 +412,6 @@ body {
 }
 .logo {
   position: relative;
-   left: 200px;
+  left: 200px;
   top: 69px;
 }
